@@ -10,3 +10,18 @@ A model capable of classifying chest X-rays as either normal or displaying evide
 
 ## Data
 The images used for this project come from the Kaggle Chest X-raay (Pneumonia) Datseta....
+***
+### For More Information
+Please review the full analysis in the [Jupyter Notebook](https://github.com/terminalcoder/Churn-in-Telecom/blob/main/notebook.ipynb) or the [presentation](https://github.com/terminalcoder/Churn-in-Telecom/blob/main/presentation.pdf).  
+For any additional questions, please contact Elimelech Berlin, melech.berlin@gmail.com.
+
+***
+## Repository Structure
+```
+├── README.md                                 <- the top-level README for reviewers of this project
+├── notebook.ipynb                            <- narrative documentation of analysis in Jupyter notebook
+├── presentation.pdf                          <- PDF version of project presentation
+├── data                                      <- sourced externally
+├── .gitignore                                <- files to ignore
+└── images                                    <- sourced from code
+```
