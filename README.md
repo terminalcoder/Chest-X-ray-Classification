@@ -58,10 +58,11 @@ For any additional questions, please contact Elimelech Berlin, melech.berlin@gma
 ***
 ## Repository Structure
 ```
+├── data                                      <- sourced externally
+├── images                                    <- sourced from code
+├── models                                    <- sourced from code
+├── .gitignore                                <- files to ignore
 ├── README.md                                 <- the top-level README for reviewers of this project
 ├── notebook.ipynb                            <- narrative documentation of analysis in Jupyter notebook
-├── presentation.pdf                          <- PDF version of project presentation
-├── data                                      <- sourced externally
-├── .gitignore                                <- files to ignore
-└── images                                    <- sourced from code
+└──  presentation.pdf                          <- PDF version of project presentation
 ```
