@@ -64,5 +64,5 @@ For any additional questions, please contact Elimelech Berlin, melech.berlin@gma
 ├── .gitignore                                <- files to ignore
 ├── README.md                                 <- the top-level README for reviewers of this project
 ├── notebook.ipynb                            <- narrative documentation of analysis in Jupyter notebook
-└──  presentation.pdf                          <- PDF version of project presentation
+└── presentation.pdf                          <- PDF version of project presentation
 ```
