@@ -1,4 +1,4 @@
-![image](https://github.com/terminalcoder/Chest-X-ray-Classification/blob/master/images/stethoscope-6902785_1280.jpg)
+![image](https://github.com/terminalcoder/Chest-X-ray-Classification/blob/master/images/lung_graphic.jpg)
 # Chest-X-ray-Classification
 Elimelech Berlin  
 September 2023
