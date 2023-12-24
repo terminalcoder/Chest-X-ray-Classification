@@ -1,4 +1,5 @@
 ![image](https://github.com/terminalcoder/Chest-X-ray-Classification/blob/master/images/lung_graphic.jpg)
+[Image by rawpixel.com](https://www.freepik.com/free-vector/lung-banner-respiratory-system-smart-healthcare_16367353.htm#&position=1&from_view=search&track=ais&uuid=1ddac8bf-4e7b-43bd-9c33-e1597d942a22) on Freepik
 # Chest-X-ray-Classification
 Elimelech Berlin  
 September 2023
